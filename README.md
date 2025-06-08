@@ -58,5 +58,7 @@ docs for more detail on building and pushing.
 ### References
 * [Docker's Node.js guide](https://docs.docker.com/language/nodejs/)
 
-### TO DO :
-* URUNG DIDEPLOY MING HEROKU
+### HASIL DEPLOY :
+* [Vercel](https://my-next-gdmr28xct-funs-projects-c3a4c602.vercel.app/)
+* [Netlify](https://tranquil-licorice-43f08c.netlify.app/)
+* Heroku (Masih Progress)
